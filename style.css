@@ -1,9 +1,11 @@
 
 .bg-header{
 	background-color: #264653;
-	
 }
 
+.bg-book{
+	background-color: #f8f9fa;
+}
 
 .col-lg-4 img{
 	width: 288px;
@@ -21,3 +23,5 @@
 	height: 220px;
 	border-radius: 50%;
 }
+
+
